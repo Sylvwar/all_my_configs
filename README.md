@@ -1,10 +1,10 @@
 # All My Configs
 
-## Windows Terminal [settings.json](windows_terminal\settings.json)
+## Windows Terminal [settings.json](windows_terminal/settings.json)
 
-## Starship [starship.toml](starship\starship.toml)
+## Starship [starship.toml](starship/starship.toml)
 
--   ### Starship for CMD [starship.lua](starship\starship.lua)
+-   ### Starship for CMD [starship.lua](starship/starship.lua)
 
 -   ### Nerd Fonts [www.nerdfonts.com](https://www.nerdfonts.com/)
 
